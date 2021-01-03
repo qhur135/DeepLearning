@@ -5,6 +5,7 @@ Stanford Dog Dataset
 다운로드 링크 : http://vision.stanford.edu/aditya86/ImageNetDogs/
 
  A. 코드 간략하게 설명 (TransferLearning.py 내에 main함수 있음)
+    
     1. ResNet 모델의 레이어 수에 따른 성능 비교
        (main함수 코드)
        model_ft = models.resnet18(pretrained=True) # resnet18 모델로 학습
