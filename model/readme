@@ -1,1 +1,14 @@
-put model here
+1. 전이학습을 한 모델
+  resent18_model.pth  
+  resent50_model.pth 
+  resent152_model.pth 
+  
+2. 전이학습을 하지 않은 모델
+  resnet18_false_model.pth 
+  resnet50_false_model.pth 
+  resnet152_false_model.pth 
+
+3. 마지막 계층을 제외한 매개변수를 고정한 모델
+  resnet18_noupdate_model.pth
+  resnet50_noupdate_model.pth
+  resnet152_noupdate_model.pth
