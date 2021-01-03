@@ -1,3 +1,6 @@
+# ResNet 레이어 수에 따른 성능 비교, 전이학습 여부에 따른 성능 비교, 매개변수 고정 여부에 따른 성능 비교
+# 를 위한 
+
 1. 전이학습을 한 모델
   resent18_model.pth  
   resent50_model.pth 
@@ -12,3 +15,5 @@
   resnet18_noupdate_model.pth
   resnet50_noupdate_model.pth
   resnet152_noupdate_model.pth
+
+
