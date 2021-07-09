@@ -1,5 +1,5 @@
 - 21.01.06 딥러닝 프로젝트 
-<< Stanford Dog Dataset을 이용한 ResNet 모델의 레이어 수에 따른 성능 비교 >>
+[ Stanford Dog Dataset을 이용한 ResNet 모델의 레이어 수에 따른 성능 비교 ]
 
 Stanford Dog Dataset
 다운로드 링크 : http://vision.stanford.edu/aditya86/ImageNetDogs/
